@@ -1,0 +1,5 @@
+rootProject.name = 'GraddleOne'
+
+include 'db'
+include 'service'
+include 'api'
